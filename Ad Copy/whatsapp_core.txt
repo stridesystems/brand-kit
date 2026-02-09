@@ -1,0 +1,235 @@
+Okay Guys don't freak out.
+
+I promised myself I wouldn't cry
+
+But I needed a single spot to give you all updates on the AI shit
+
+You've three expressed interest in building and learning AI
+
+This is moving faster than I thought and soon, I'll be full and will have opportunities to hand off some lower ticket builds to you guys.  The best part? You'
+
+You will make 70-80% commissions on builds you take on
+
+with my full support.
+
+No pressure to stay in this chat! It's purely updates and q/a while I organize shit.
+
+But I love you all and am pumped to get rolling.
+
+🫡
+
+product idea:  For everyone online that sells a product that include instructions on how to set it up: (notion templates, software, basic tools, gpt wrappers, etc.)  Any situation where they have a youtube video someone has to follow along with in order to get the thing up and running.  A custom RAG gpt for Q/A and troubleshooting. Training files: - Transcript of their video(s) - Sop documentation - The file of the product itself (json n8n flow, notion mkdwn., code of the software, etc.) - Any additional support documentation  Outcome - A user gets stuck during the setup process. Instead of the creator having to troubleshoot over DM's like a fucking cave man, they simply have inquiries like this sent to the AI Agent trained exclusively on the tool they built. - No support calls - No stupid questions - No wasted time - Onto the next build
+
+Closing a 4k build today.  Will take me two weeks  Since I take 50% upfront and 50% on finish  I’ve made 3k in 4 days.
+
+Okay guys! For whoever is actively building AI tools and wanting to build them as a service through my Agency Stride (Grace, Burhan I know you guys are)  I am ready to organize at least a once weekly meeting to strategize and prep for clients.  I have several lead funnels opening up and should have stuff soon.
+
+LFG.  First - let’s go ahead and organize a first meeting. Treating it as our main update meeting. Lean quick update and sync.  What day works? We should try to shoot for Tuesday/Wednesday I think.  Preference for me is Tuesday  Afternoon is fine. What do we think gang?
+
+Also - I’ve got n8n running locally which basically makes it free for you guys.
+
+Just have to re install params which fucks
+
+How is Tuesday 10:30am Central?
+
+Had to flex the IP email att boy
+
+Legend
+
+welcome Aidara ‎<This message was edited>
+
+Same ol scheming as usual boss
+
+I’m pumped.
+
+Nate Herk on Youtube - you're welcome
+
+noice, also, please book me in the next 48 guys: https://cal.com/brandon-stride-systems/stride-systems-30-min
+
+Hey ya'll - how do we feel about using todays time we held as a recurring quick sync. Likely just going to be short 10 min update meetings for now until we get more leads in.
+
+looks like everyone got booked. Thanks, really looking forward to this.
+
+Meeting with a VA team tomorrow. I worked with them a few years ago and they are awesome. Will see if they can manage our use case for client onboarding.
+
+join this free group: https://www.skool.com/ai-automation-society
+
+best place to start learning IMO
+
+I will have AI in my brain as soon as possible.
+
+I dm'd him already  He told me I'm gay so..
+
+Yeah exactly. I do think it’s make our job way easier for simple stuff. Especially if they already like OpenAI.  Also the security risk if you don’t know what you’re doing is a big gap we fill
+
+Overall our customer agents will do better work.
+
+For now lol
+
+I’m curious how this new launch might integrate with n8n and similar api use cases.
+
+I
+
+I'll be dropping a sample demo here to a client as an example of what I'm doing - we don't show n8n flows, too confusing, instead we create a workflow presentation like this that is easy to understand on the client side.
+
+Solid feedback
+
+omg I did not know you went that hard with it hahaha
+
+The colors are in fact, mostly random haha
+
+And lightning is a typical trigger icon for zaps and n8n but in a presentation use case, I will use a clock I think
+
+Aight it's an ass overview cuz I'm feely sicky but here is the overview I made for Truest Financial as an example. Please do better than me lol.  Building Our First Outreach Agent: Framework and Pricing Overview 🚀 - Watch Video
+
+https://www.loom.com/share/3a202b56c397477c9df197d58d55c5f8?sid=1732813c-b9ef-4fa5-9a8d-6cb03eaf4cd1
+
+“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
+
+Shit gets me fired up
+
+I’ve read em with my wife. WILD
+
+Well damn I’ll have to visit the coast my wife would freak out
+
+ad account primed with $500
+
+lil sneak peak ‎[7/19/25, 4:15:02 PM] Brandon Harris: ‎image omitted ‎[7/19/25, 4:16:03 PM] Brandon Harris: ‎video omitted ‎[7/19/25, 4:27:31 PM] Brandon Harris: ‎video omitted
+
+Vibes are UP what are you fuckers working on today?
+
+respectfully
+
+doesn't have to have anything to do w/Stride
+
+I got you
+
+at least something to sauce on
+
+Want a template?
+
+3mg zyn + 10mg Addy + 100ng/dl Test is RIPPIN rn  Let me spin it up
+
+Some zesty b roll/intro footy  My boy Jace is a wizard.
+
+no doubt a big week for you Jake. You have a lot to fight for. ‎[7/21/25, 11:06:44 AM] Brandon Harris: ‎image omitted
+
+‎You deleted this message.
+
+first step, threw this together fast, it will be a WIP
+
+https://link.excalidraw.com/l/26Al3Wupf9P/7KTDnB0uO7y
+
+Feedback is welcome! This is just based on how Jake and I have locked in some work. ‎<This message was edited>
+
+Along with stealing tips from the builders communities ‎[7/21/25, 11:53:45 AM] Brandon Harris: ‎video omitted ‎[7/21/25, 11:53:48 AM] Brandon Harris: ‎video omitted
+
+My boy Jace a menace.
+
+I will have parts 2-3 soon
+
+(The call) (post call)
+
+Some of you are seeing this for the second time but you’re fine.  https://youtu.be/vz6_mi-uYT0?si=TaRoSIYXW0A_hYh0
+
+Yeah I shout you out too. I love em man.
+
+I had the largest one on when we talked. Size down is likely my fit.  I’m also ass at putting the stickers on.
+
+FUCK TUTORIALS
+
+They don’t go under your eyes?
+
+I would open tutorial with “So you fucked up….  Welcome to the tutorial”
+
+Heard you’re hard to miss in a crowd
+
+Reminder for tomorrows Stride update meeting.  Short one, but I do have a few updates!
+
+https://www.youtube.com/watch?v=4BVTkqbn_tY&list=PLlET0GsrLUL59YbxstZE71WszP3pVnZfI
+
+Nothing crazy. Could have been an email haha.  Ads launch this afternoon.  The link above is an entry course YouTube series for n8n I strongly recommend to all of you.
+
+Lore wall needs a sword
+
+Anduril, flame of the west would be fitting.
+
+If you don’t know that reference repent.
+
+Hey, welcome Jett everyone. Aspiring AI master and vetted good vibes generator.
+
+Let me make sure he’s actually in here I thought I added the right number 😂 ‎[7/22/25, 7:52:01 PM] Burhan Ahmed: ‎image omitted
+
+Haha got him!!
+
+atta boy
+
+Jett book a time with me: https://cal.com/brandon-stride-systems/stride-systems-30-min
+
+https://www.loom.com/share/eead92a5227d457396ee0e0053e5156f?sid=f174da0e-e2f5-4589-a08a-1568436eb529
+
+Two offers you can can start rolling out this week without any n8n knowledge. Of course with my full support. Check it out. play it at 1.2/1.5 speed.
+
+im sayin haha
+
+Too hungry
+
+shiza dawg haha
+
+I knew your ass was up
+
+I agree. Get anyone of you a seat at your local chapter 100% paid for. Along with what to share and talk about.
+
+Yep all good was meant for morning viewing but you nut jobs are up 😂😂
+
+I can smell the wins guys. Just right there. So close.
+
+We’re not going to be in the AI service DFY space long. That is true. Shortest phase of the businesses.
+
+Yeah it’s an easy win man.
+
+https://www.instagram.com/reel/DMYnp5St5xl/?igsh=Nnp3cnRrenZoODNy
+
+This is our new sales strategy btw
+
+is it really? haha
+
+It begins ‎[7/23/25, 6:51:43 PM] Burhan Ahmed: ‎GIF omitted
+
+Haha LFG
+
+Haha I know and he’s service based which is my wheel house.
+
+Legend
+
+https://www.loom.com/share/96092676944045d58a55dd2f54b5a9d5?sid=3670375c-7494-4d2a-bd13-4fc81742c38a
+
+Another overview demo for a voice agent, I present the flow and tech stack
+
+along with costs
+
+This guy is saucing and has been for a while. I'
+
+https://www.youtube.com/watch?v=SDYm5bpqKt8 ‎[7/24/25, 3:58:28 PM] Brandon Harris: ‎image omitted
+
+I should have 1 more at least by EOM
+
+Yep - This guy has done what we are doing haha. And made more of it, just like we will.  Also, recording a big build demo of how I approach brand new fresh build projects (not template tweaks)  It's longer, but once I edit this, it would be good to watch so you can get an idea of the n8n trenches and how builds go, good, bad and ugly.
+
+I am such an infant haha
+
+No like knowing who is who game haha
+
+I can't whine too bad I have only been grinding on this a few months lol
+
+😂😂  NO MORE!!
+
+Getting a 6 month free test GHL account. So if you want to test automations in GHL I am pretty sure I can add you idk tho lol
+
+well it doesn't include api so yeah nvm fuck ghl
+
+I am pretty sure our build time for n8n automations just got cut by 80-90%  I’ll need to test it.  But the chat gpt agent (going to run Genspark through this too) is expressing a shit load of confidence in building custom AI builds within my n8n account. Completely passive.  If this works it resolves our major roadblock: Build Time.  If it does in fact resolve this. I would mean volume and scaling are only that much more approachable.  This means we can hand off builds to you guys much MUCH faster. And your barrier to entry (how to build shit in n8n) is dramatically reduced.  I’ll report on this Tuesday! Very exciting times.
+
+This could mean handing AI solutions audits and builds to you all by the end of next week.
+
+The agent mode is showing some shortcomings which is to be expected in the first iteration.  But I think with really strict guidance and enablement I can make it work.
