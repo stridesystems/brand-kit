@@ -1,0 +1,14 @@
+# Prevent future text file additions in Ad Copy
+Ad Copy/*.txt
+
+# OS artifacts
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Standard exclusions
+.env
+.env.*
+.env.local
+settings.local.json
+.planning/
